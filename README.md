@@ -229,7 +229,7 @@ plt.show()
 # Modify contrast using scaling factors 1.1 and 1.2:
 ![Screenshot 2025-03-11 134156](https://github.com/user-attachments/assets/5e9374d5-7b0b-4cc1-a87a-5dabc2fdf37c)
 ## iv) Generate Third Image Using Bitwise Operations.
-#1.Split 'Boy.jpg' into B, G, R components and display:
+# 1.Split 'Boy.jpg' into B, G, R components and display:
 ![Screenshot 2025-03-11 134206](https://github.com/user-attachments/assets/ba79fe25-432c-43d9-9698-fe4735d425cc)
 # 2.Merge the R, G, B channels and display:
 ![Screenshot 2025-03-11 134215](https://github.com/user-attachments/assets/be7cd0d5-df9a-4b56-9d2a-1e47f262591c)
